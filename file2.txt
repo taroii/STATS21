@@ -1,0 +1,3 @@
+This is a new text document for HW1 purposes.
+
+This is a modification to file2.txt. I forgot to add a description to my last commit :(
